@@ -5,6 +5,12 @@
 
 ---
 
+- 🔭 I’m currently working on **My Portfolio**<!--[My Portfolio](https://www.linkedin.com/in/valeriy-yuriy-051919260/)-->
+- 🌱 I’m currently learning **Javascript**
+- ⚡ Fun fact: **From fixing mechanical gears to coding bugs, I'm engineering a career shift from nuts and bolts to pixels and code. Preparing to swap my toolkit for a keyboard and embrace a whole new world of software engineering. I'am turning into a "mechano-coder," ready to build digital solutions with a twist!**
+
+---
+
 | <p align="center">Contact me:</p><p>[<img src="linkedin.png" alt="LinkedIn" height="70" width="75">](https://linkedin.com/in/valeriorichi) </p><p>[<img src="instagram.png" alt="Instagram" height="70" width="75">](https://instagram.com/valeriorichi)</p><p>[<img src="facebook.png" alt="Facebook" height="70" width="75">](https://fb.com/valeriorichi) </p><p>[<img src="cv.png" alt="Facebook" height="50" width="75">](https://fb.com/valeriorichi) </p> | ![Profile Image](coder_ukr.png) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
 
@@ -41,21 +47,6 @@
 
 #
 
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=valeriorichi&no-bg=true&title=PullRequest,Commits,Repositories" alt="GitHub Trophy Card">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=valeriorichi&no-bg=true&title=PullRequest,Commits,Repositories&column=-1" alt="GitHub Trophy Card"></div>
 
 #
-
-<!--
-**valeriorichi/valeriorichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
