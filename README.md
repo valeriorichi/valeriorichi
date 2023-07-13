@@ -11,13 +11,13 @@
 
 ---
 
-| <p align="center">Contact me:</p><p>[<img src="linkedin.png" alt="LinkedIn" height="70" width="75">](https://linkedin.com/in/valeriorichi) </p><p>[<img src="instagram.png" alt="Instagram" height="70" width="75">](https://instagram.com/valeriorichi)</p><p>[<img src="facebook.png" alt="Facebook" height="70" width="75">](https://fb.com/valeriorichi) </p><p>[<img src="cv.png" alt="Facebook" height="50" width="75">](https://fb.com/valeriorichi) </p> | ![Profile Image](coder_ukr.png) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
+| <p align="center">**Contact me:**</p><p>[<img src="linkedin.png" alt="LinkedIn" height="70" width="75">](https://linkedin.com/in/valeriorichi) </p><p>[<img src="instagram.png" alt="Instagram" height="70" width="75">](https://instagram.com/valeriorichi)</p><p>[<img src="facebook.png" alt="Facebook" height="70" width="75">](https://fb.com/valeriorichi) </p><p>[<img src="cv.png" alt="MyCV" height="50" width="75">](https://drive.google.com/file/d/15YHRks7Pdnt2iR9auuRMr5jIS6uwG8cw/view?usp=sharing) </p> | ![Profile Image](coder_ukr.png) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif"/>
 <br/>
 
-<h3 align="center">𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</h3>
+<h3 align="center">LANGUAGES and TOOLS:</h3>
 
 <br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
