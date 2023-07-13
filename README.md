@@ -8,7 +8,7 @@
 | <p align="center">Contact me:</p><p>[<img src="linkedin.png" alt="LinkedIn" height="70" width="75">](https://linkedin.com/in/valeriorichi) </p><p>[<img src="instagram.png" alt="Instagram" height="70" width="75">](https://instagram.com/valeriorichi)</p><p>[<img src="facebook.png" alt="Facebook" height="70" width="75">](https://fb.com/valeriorichi) </p> | ![Profile Image](coder_ukr.png) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
 
-<img align="left" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/6h2_MuylToAAAAAi/skgcode.gif"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
@@ -37,11 +37,7 @@
 
 <br/>
 
-#
-
-#
-
-#
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriorichi&show_icons=true&locale=en&layout=compact" alt="valeriorichi" /></p>
 
 #
 
