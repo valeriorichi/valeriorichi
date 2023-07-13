@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Valeriy Yuriy</h1>
+<h3 align="center">✨ An enthusiastic and driven Junior Software Developer, freshly empowered by completing studies at a leading software development school, ready to take on new challenges. 😄</h3>
+
+ <p align="center" >🌟 With a passion for problem-solving, a dedication to continuous learning, and an open mind for new work, 🚀 I'm eager to contribute to innovative projects 🌟 and thrive in the dynamic world of software development. 🔧</p>
+
+---
+
+| <p align="center">Contact me:</p><p>[<img src="linkedin.png" alt="LinkedIn" height="70" width="75">](https://linkedin.com/in/valeriorichi) </p><p>[<img src="instagram.png" alt="Instagram" height="70" width="75">](https://instagram.com/valeriorichi)</p><p>[<img src="facebook.png" alt="Facebook" height="70" width="75">](https://fb.com/valeriorichi) </p> | ![Profile Image](coder_ukr.png) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
 
 <!--
 **valeriorichi/valeriorichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
