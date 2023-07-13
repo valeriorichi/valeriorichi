@@ -41,7 +41,7 @@
 
 #
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=valeriorichi&no-bg=true&title=PullRequest,Commits,Repositories" alt="GitHub Trophy Card">
 
 #
 
