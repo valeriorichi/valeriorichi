@@ -11,8 +11,8 @@
 
 ---
 
-| <p align="center">**Contact me:**</p><p>[<img src="linkedin.png" alt="LinkedIn" height="70" width="75">](https://www.linkedin.com/in/valeriy-yuriy-051919260/) </p><p>[<img src="instagram.png" alt="Instagram" height="70" width="75">](https://www.instagram.com/yurko_l/)</p><p>[<img src="facebook.png" alt="Facebook" height="70" width="75">](https://www.facebook.com/yurko.legin) </p><p>[<img src="cv.png" alt="MyCV" height="50" width="75">](https://drive.google.com/file/d/15YHRks7Pdnt2iR9auuRMr5jIS6uwG8cw/view?usp=sharing) </p> | ![Profile Image](coder_ukr.png) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
+| <p align="center">**Contact me:**</p><p>[<img src="linkedin.png" alt="LinkedIn" height="70" width="75" class="rotating-icon-1">](https://www.linkedin.com/in/valeriy-yuriy-051919260/) </p><p>[<img src="instagram.png" alt="Instagram" height="70" width="75" class="rotating-icon-2">](https://www.instagram.com/yurko_l/)</p><p>[<img src="facebook.png" alt="Facebook" height="70" width="75" class="rotating-icon-3">](https://www.facebook.com/yurko.legin) </p><p>[<img src="cv.png" alt="MyCV" height="50" width="75" class="rotating-icon-4">](https://drive.google.com/file/d/15YHRks7Pdnt2iR9auuRMr5jIS6uwG8cw/view?usp=sharing) </p> | ![Profile Image](coder_ukr.png) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif"/>
 <br/>
@@ -50,3 +50,46 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=valeriorichi&no-bg=true&title=PullRequest,Commits,Repositories&column=-1" alt="GitHub Trophy Card"></div>
 
 #
+
+<style>
+  @keyframes rotate-1 {
+   0% { transform: rotateY(0deg); }
+    5% { transform: rotateY(360deg); }
+    100% { transform: rotateY(360deg); }
+  }
+
+  @keyframes rotate-2 {
+   0% { transform: rotateY(0deg); }
+    5% { transform: rotateY(360deg); }
+    100% { transform: rotateY(360deg); }
+  }
+  @keyframes rotate-3 {
+   0% { transform: rotateY(0deg); }
+    5% { transform: rotateY(360deg); }
+    100% { transform: rotateY(360deg); }
+  }
+
+  @keyframes rotate-4 {
+    0% { transform: rotateY(0deg); }
+    5% { transform: rotateY(360deg); }
+    100% { transform: rotateY(360deg); }
+  }
+  .rotating-icon-1 {
+    animation: rotate-1 5s linear infinite;
+  }
+
+  .rotating-icon-2 {
+    animation: rotate-2 5s linear infinite;
+    animation-delay: 1s; /* Delay the rotation for 1 second */
+  }
+
+  .rotating-icon-3 {
+    animation: rotate-3 5s linear infinite;
+    animation-delay: 2s; /* Delay the rotation for 2 seconds */
+  }
+
+  .rotating-icon-4 {
+    animation: rotate-4 5s linear infinite;
+    animation-delay: 3s; /* Delay the rotation for 3 seconds */
+  }
+</style>
